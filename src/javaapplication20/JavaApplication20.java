@@ -10,7 +10,7 @@ package javaapplication20;
  * @author Da-pro
  */
 public class JavaApplication20 {
-
+//kolpkk
     /**
      * @param args the command line arguments
      */
